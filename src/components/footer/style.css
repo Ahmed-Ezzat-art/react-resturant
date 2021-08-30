@@ -1,0 +1,49 @@
+footer{
+    margin-top: 50px;
+}
+
+.footer-content h3,
+.footer-desc h3
+{
+    color: var(--main-color);
+}
+
+.footer-content p{
+    line-height: 2;
+    color: var(--text-color1);
+    text-align: justify;
+}
+
+.footer-content .footer-icons{
+    display: flex;
+}
+
+.footer-content .footer-icons li{
+    width: 35px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: var(--bg2);
+    box-shadow: 1px 1px 4px rgba(0,0,0,.3);
+    margin-right: 10px;
+    border-radius: 50%;
+    color:var(--text-color1);
+}
+
+.footer-desc .open-hours li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 2;
+    color: var(--text-color1);
+}
+
+footer p.desc{
+    text-align: center;
+    color: #fff;
+    background: var(--main-color);
+    margin-bottom: 0px;
+    padding: 20px;
+}

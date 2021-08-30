@@ -1,0 +1,81 @@
+.img-prev{
+    background-image: linear-gradient(rgba(0,0,0,.7),
+     rgba(0,0,0,.6)),url("../../../../src/bg/bg2.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px 0px;
+    margin-top: 50px;
+}
+
+.prev-content{
+    box-shadow: 1px 2px 5px rgba(0,0,0,.5);
+    position: relative;
+    height: 350px;
+    margin-bottom: 35px;
+    overflow: hidden;
+}
+
+.prev-content img,
+.prev-content .prev-layer
+{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.prev-content img{ 
+    object-fit: cover;
+    z-index: 1;
+}
+
+.prev-content .prev-layer,
+.prev-content .prev-layer span
+{
+    justify-content: center;
+    align-items: center;
+}
+
+
+.prev-content .prev-layer{
+    z-index: 2;
+    text-align: center;
+    padding: 25px;
+    background: rgba(0,0,0,.6);
+    color: #eee;
+    display: flex;
+    flex-direction: column;
+    transform: scaleX(0);
+}
+
+.prev-content:hover .prev-layer{
+    transform: scaleX(1);
+}
+
+.prev-content .prev-layer span{
+    display: block;
+    background: var(--main-color);
+    color: #fff;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    display: block;
+    padding: 4px 8px;
+    font-size: 20px;
+}
+
+.prev-content .prev-layer p{
+    line-height: 1.8;
+    font-size: 17px;
+}
+
+.prev-content .prev-layer button{
+    padding: 5px 12px;
+    outline: 0;
+    border: 0;
+    font-size: 17px;
+    border-radius: 7px;
+    text-transform: capitalize;
+}

@@ -1,0 +1,41 @@
+.pop-box{
+    box-shadow: 1px 1px 5px rgba(0,0,0,.4);
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.pop-img{
+    width: 90%;
+    height: 250px;
+    margin: 12px auto;
+    overflow: hidden;
+}
+
+.pop-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform .5s;
+}
+
+.pop-box:hover .pop-img img{
+    transform: scale(1.2);
+}
+.pop-info{
+    text-align: center;
+    padding: 20px;
+}
+
+.pop-info h3{
+    color: var(--main-color);
+}
+
+.pop-info p{
+    line-height: 1.6;
+    color: var(--text-color1);
+}
+
+.pop-info i{
+    color: gold;
+    margin-right: 3px;
+}

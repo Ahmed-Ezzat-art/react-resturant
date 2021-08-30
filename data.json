@@ -1,0 +1,446 @@
+{
+    "popular": [
+        {
+            "id": 1,
+            "title": "nice cake",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/dessert/1.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 2,
+            "title": "tasty meat",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/meat/1.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 3,
+            "title": "fresh juice",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/juice/1.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 4,
+            "title": "pizza",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/pizza/1.png",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        }
+    ],
+    "new": [
+        {
+            "id": 1,
+            "title": "sandwitch",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sandwitch/1.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 2,
+            "title": "sundae",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sundae/1.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 3,
+            "title": "fresh juice",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/juice/2.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 4,
+            "title": "pizza",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/pizza/2.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 5,
+            "title": "nice cake",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/dessert/2.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 6,
+            "title": "tasty meat",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/meat/2.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 7,
+            "title": "sandwitch",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sandwitch/2.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 8,
+            "title": "sundae",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sundae/2.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        }
+    ],
+    "features": [
+        {
+            "id": 1,
+            "icon": "fas fa-magic",
+            "title": "parallax effect",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods."
+        },
+        {
+            "id": 2,
+            "icon": "fas fa-list",
+            "title": "multi layout food",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods."
+        },
+        {
+            "id": 3,
+            "icon": "fas fa-stream",
+            "title": "extra menu",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods."
+        },
+        {
+            "id": 4,
+            "icon": "fas fa-heart",
+            "title": "tasty food",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods."
+        },
+        {
+            "id": 5,
+            "icon": "fas fa-truck",
+            "title": "foods delivery",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods."
+        },
+        {
+            "id": 6,
+            "icon": "fas fa-mobile",
+            "title": "responsive design",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods."
+        }
+    ],
+    "sliderProd": [
+        {
+            "id": 1,
+            "title": "sandwitch",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sandwitch/3.jpg",
+            "price": 20,
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "title": "sundae",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sundae/3.jpg",
+            "price": 10,
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "title": "fresh juice",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/juice/1.jpg",
+            "price": 12,
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "title": "pizza",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/pizza/3.jpg",
+            "price": 25,
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "title": "nice cake",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/dessert/3.jpg",
+            "price": 35,
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "title": "tasty meat",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/meat/3.jpg",
+            "price": 50,
+            "quantity": 1
+        },
+        {
+            "id": 7,
+            "title": "sandwitch",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sandwitch/4.jpg",
+            "price": 17,
+            "quantity": 1
+        },
+        {
+            "id": 8,
+            "title": "sundae",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sundae/4.jpg",
+            "price": 11,
+            "quantity": 1
+        }
+    ],
+    "imgPreview": [
+        {
+            "id": 9,
+            "title": "dessert",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/dessert/4.jpg",
+            "price": 45,
+            "quantity": 1
+        },
+        {
+            "id": 10,
+            "title": "juice",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/juice/3.jpg",
+            "price": 20,
+            "quantity": 1
+        },
+        {
+            "id": 11,
+            "title": "meat",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/meat/4.jpg",
+            "price": 85,
+            "quantity": 1
+        },
+        {
+            "id": 12,
+            "title": "pizza",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/pizza/4.jpg",
+            "price": 45,
+            "quantity": 1
+        },
+        {
+            "id": 13,
+            "title": "sandwitch",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sandwitch/5.jpg",
+            "price": 33,
+            "quantity": 1
+        },
+        {
+            "id": 14,
+            "title": "sundae",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sundae/1.jpg",
+            "price": 12,
+            "quantity": 1
+        },
+        {
+            "id": 15,
+            "title": "dessert",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/dessert/5.jpg",
+            "price": 100,
+            "quantity": 1
+        },
+        {
+            "id": 16,
+            "title": "juice",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/juice/4.jpg",
+            "price": 50,
+            "quantity": 1
+        }
+    ],
+    "filterPro": [
+        {
+            "id": 17,
+            "title": "meat",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/meat/1.jpg",
+            "price": 120,
+            "quantity": 1,
+            "category": "meat"
+        },
+        {
+            "id": 18,
+            "title": "pizza",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/pizza/1.png",
+            "price": 55,
+            "quantity": 1,
+            "category": "pizza"
+        },
+        {
+            "id": 19,
+            "title": "sandwitch",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sandwitch/1.jpg",
+            "price": 20,
+            "quantity": 1,
+            "category": "sandwitch"
+        },
+        {
+            "id": 20,
+            "title": "sundae",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sundae/2.jpg",
+            "price": 8,
+            "quantity": 1,
+            "category": "sundae"
+        },
+        {
+            "id": 21,
+            "title": "dessert",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/dessert/1.jpg",
+            "price": 55,
+            "quantity": 1,
+            "category": "dessert"
+        },
+        {
+            "id": 22,
+            "title": "juice",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/meat/1.jpg",
+            "price": 15,
+            "quantity": 1,
+            "category": "juice"
+        },
+        {
+            "id": 23,
+            "title": "meat",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/meat/2.jpg",
+            "price": 90,
+            "quantity": 1,
+            "category": "meat"
+        },
+        {
+            "id": 24,
+            "title": "meat",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/meat/5.jpg",
+            "price": 80,
+            "quantity": 1,
+            "category": "meat"
+        },
+        {
+            "id": 25,
+            "title": "juice",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/juice/2.jpg",
+            "price": 10,
+            "quantity": 1,
+            "category": "juice"
+        },
+        {
+            "id": 26,
+            "title": "sandwitch",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/sandwitch/2.jpg",
+            "price": 50,
+            "quantity": 1,
+            "category": "sandwitch"
+        },
+        {
+            "id": 27,
+            "title": "pizza",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/pizza/2.jpg",
+            "price": 38,
+            "quantity": 1,
+            "category": "pizza"
+        },
+        {
+            "id": 28,
+            "title": "dessert",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/dessert/6.jpg",
+            "price": 66,
+            "quantity": 1,
+            "category": "dessert"
+        }
+    ],
+    "blog1": [
+        {
+            "id": 1,
+            "title": "taste our meat",
+            "meal": "lunch & dinner",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/meat/7.jpg"
+        },
+        {
+            "id": 2,
+            "title": "nice cake",
+            "meal": "dinner beautiful cake",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/dessert/7.jpg"
+        },
+        {
+            "id": 3,
+            "title": "mango juice",
+            "meal": "fresh tasty juice",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/juice/5.jpg"
+        }
+    ],
+    "blog2": [
+        {
+            "id": 1,
+            "title": "healthy meat",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/meat/8.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 2,
+            "title": "fresh fruits",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/fruit/4.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        },
+        {
+            "id": 3,
+            "title": "fresh juice",
+            "desc": "local food environment plays in residents’ ability to purchase affordable, healthy and nutritious foods.",
+            "img": "/images/juice/6.jpg",
+            "star": "fas fa-star",
+            "starEmpty": "far fa-star",
+            "halfStar": "fas fa-star-half-alt"
+        }
+    ]
+}
